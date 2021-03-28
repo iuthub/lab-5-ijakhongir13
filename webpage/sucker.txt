@@ -1,0 +1,4 @@
+Jakhongir;MA;12345678;visa
+Rashidjon;MB;21345235;mastercard
+Jumagul;MC;72579362;visa
+Tursunboy;MD;62955243;visa
